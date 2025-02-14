@@ -1,1 +1,1 @@
-# currancy-converter-app
+The Currency Converter App is a web application that allows users to convert one currency into another based on real-time exchange rates. It is built using HTML, CSS, and JavaScript, with integration to an external API for fetching the latest exchange rates.
